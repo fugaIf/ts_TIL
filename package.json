@@ -1,0 +1,24 @@
+{
+  "name": "til",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "modele",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fugaIf/ts_TIL.git"
+  },
+  "author": "f.ikeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fugaIf/ts_TIL/issues"
+  },
+  "homepage": "https://github.com/fugaIf/ts_TIL#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.32",
+    "typescript": "^4.6.4"
+  }
+}
